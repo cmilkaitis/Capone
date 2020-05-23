@@ -7,8 +7,7 @@ public class Keys
     {
         get 
         {
-            StreamReader file = File.OpenText("./keys.json");
-            string json = file.ReadToEnd();
+            string json = File.ReadAllText("./Private/keys.json");
             return JToken.Parse(json).SelectToken("BotToken").Value<string>();
         }
     }

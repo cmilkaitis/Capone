@@ -32,7 +32,7 @@ public class CommandHandler
 
         int argPos = 0;
 
-        if (!(message.HasCharPrefix('!', ref argPos) || 
+        if (!(message.HasStringPrefix("capone ", ref argPos) || 
             message.HasMentionPrefix(_client.CurrentUser, ref argPos)) ||
             message.Author.IsBot)
             return;

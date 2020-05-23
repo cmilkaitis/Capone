@@ -1,9 +1,0 @@
-C:\Users\Chris\Projects\capone\bin\Debug\netstandard2.0\capone.deps.json
-C:\Users\Chris\Projects\capone\bin\Debug\netstandard2.0\capone.dll
-C:\Users\Chris\Projects\capone\bin\Debug\netstandard2.0\capone.pdb
-C:\Users\Chris\Projects\capone\obj\Debug\netstandard2.0\capone.csprojAssemblyReference.cache
-C:\Users\Chris\Projects\capone\obj\Debug\netstandard2.0\capone.AssemblyInfoInputs.cache
-C:\Users\Chris\Projects\capone\obj\Debug\netstandard2.0\capone.AssemblyInfo.cs
-C:\Users\Chris\Projects\capone\obj\Debug\netstandard2.0\capone.csproj.CoreCompileInputs.cache
-C:\Users\Chris\Projects\capone\obj\Debug\netstandard2.0\capone.dll
-C:\Users\Chris\Projects\capone\obj\Debug\netstandard2.0\capone.pdb

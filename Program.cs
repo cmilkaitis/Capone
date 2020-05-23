@@ -10,7 +10,7 @@ namespace capone
     public class Program
     {
         private DiscordSocketClient _client;
-        private readonly string DiscordToken = "NzEzODExMjQ5NjI4MDUzNTQ0.XslsrA.QMTRSzsRJOxO0Tkbjl1Nt5Vd0Kk";
+        private readonly string DiscordToken = new Keys().BotToken;
 
         public static void Main(string[] args)
             => new Program().MainAsync().GetAwaiter().GetResult();
